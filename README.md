@@ -12,11 +12,11 @@
 
 ## 📊 GitHub Stats
 
-
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NadezhdaVoskan)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadezhdaVoskan&show_icons=true&theme=transparent&title_color=fb6f92&text_color=0096c7&rank_icon=github)
 
-<div align="center">
+
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadezhdaVoskan&layout=pie&title_color=fb6f92&text_color=0096c7)](https://github.com/anuraghazra/github-readme-stats)
 
